@@ -1,0 +1,30 @@
+{
+<<<<<<< HEAD
+  "name": "web-server",
+=======
+  "name": "weather-app",
+>>>>>>> e73293dcfac60beb739fb739ababfec1b4ab5588
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+<<<<<<< HEAD
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+=======
+    "test": "echo \"Error: no test specified\" && exit 1"
+>>>>>>> e73293dcfac60beb739fb739ababfec1b4ab5588
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+<<<<<<< HEAD
+    "express": "^4.15.4",
+    "hbs": "^4.0.1"
+=======
+    "axios": "^0.16.2",
+    "request": "^2.81.0",
+    "yargs": "^8.0.2"
+>>>>>>> e73293dcfac60beb739fb739ababfec1b4ab5588
+  }
+}

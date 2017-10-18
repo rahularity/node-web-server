@@ -1,0 +1,5 @@
+Middleware:
+if express doesn't do something we want it to do then we can add a middleware and teach it to do so.
+app.use((req, res, next) => {}); //registering middleware and it takes a function
+we can make change to the request and the response object
+we can use middleware to determine weather or not someone is logged in  and we can use it to respond to a request.
